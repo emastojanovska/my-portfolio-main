@@ -114,7 +114,7 @@ const Pofrfolio = () => {
         <p></p>
         <b>Demo:</b> <a className="hyper-link" onClick={() => window.open("https://emastojanovska.github.io/my-portfolio-main", "_blank")}>"https://emastojanovska.github.io/my-portfolio-main</a>
         <br />
-        <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/emastojanovska/my-portfolio", "_blank")}>https://github.com/emastojanovska/my-portfolio</a>
+        <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/emastojanovska/my-portfolio-main", "_blank")}>https://github.com/emastojanovska/my-portfolio-main</a>
       </>
     )
     PopupboxManager.open({ content,
