@@ -39,11 +39,11 @@ const Footer = () => {
                 <Link smooth={true} to="services" offset={-95} className="footer-nav" href="#">Services</Link>
                 </div>
               <div className="col">
-              <Link smooth={true} to="education" offset={-100} className="footer-nav" href="#">Education</Link>
+              <Link smooth={true} to="education" offset={-50} className="footer-nav" href="#">Education</Link>
               <br />
-              <Link smooth={true} to="portfolio" offset={-95} className="footer-nav" href="#">My work</Link>
+              <Link smooth={true} to="portfolio" offset={-20} className="footer-nav" href="#">My work</Link>
               <br />
-              <Link smooth={true} to="contact" offset={-100} className="footer-nav" href="#">Contact</Link>
+              <Link smooth={true} to="contact" offset={-50} className="footer-nav" href="#">Contact</Link>
               </div>
             </div>
           </div>
