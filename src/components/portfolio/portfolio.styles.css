@@ -87,14 +87,23 @@
     .portfolio-image-popupbox {
       width: 100%;
     }
+    .portfolio-image-box{
+      padding: 0 5rem;
+    }
+    .portfolio-image-box{
+      padding: 0 2rem;
+    }
   }
   
-  @media(max-height: 570px) {
+  @media(max-width: 570px) {
   .popupbox-wrapper {
     height: 100%;
   }
     .portfolio-image-popupbox {
       width: 50%;
+    }
+    .portfolio-image-box{
+      padding: 0 2.7rem;
     }
   }
   
