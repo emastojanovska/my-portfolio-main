@@ -1,7 +1,28 @@
 .about-wrap{
   padding-bottom: 100vh;
 }
+.btn-main-offer-cv {
+  border: 1px solid var(--primary-white);
+  text-transform: uppercase;
+  border-radius: 0;
+  padding: 0.75rem 0.8rem 0.8rem 0.8rem;
+  color: var(--primary-white);
+  margin: 0 ;
+  text-decoration: none;
+  background-color: var(--primary-pink);
+  color: var(--primary-white);
+  transition:  .2s ease-in-out;
+  font-family: 'Compressa VF';
+}
 
+.btn-main-offer-cv:hover {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: var(--primary-dark);
+  border-color: var(--primary-pink);
+  color: var(--primary-black);
+  transition:  .2s ease-in-out;
+}
 .photo-wrap {
     display: flex;
     justify-content: center;

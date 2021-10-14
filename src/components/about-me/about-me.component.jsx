@@ -1,4 +1,5 @@
 import React from "react";
+import cv from '../../files/cv.pdf'
 import me from '../../assets/me.jpg'
 import './about-me.styles.css'
 
@@ -26,6 +27,15 @@ const AboutMe = () => {
               of creating reusable, extensible code with tremendous performance. I love working with
                people on diverse projects, sharing ideas for the things I’m passionate about and enhancing the knowledge for the newest technologies out there. 
           </p>
+            
+              <a
+                href={cv}
+                download
+                className="btn-main-offer-cv"
+              >
+                Click here to download my CV
+              </a>
+           
         </div>
       </div>
       
