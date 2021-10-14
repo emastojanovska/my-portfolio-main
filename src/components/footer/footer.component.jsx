@@ -50,28 +50,28 @@ const Footer = () => {
           <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
             <div className="d-flex justify-content-center">
               <FacebookShareButton
-                url={"https://emastojanovska.github.io/my-portfolio"}
+                url={"https://emastojanovska.github.io/my-portfolio-main"}
                 quote={"FullStack Developer"}
                 hashtag="#javascript"
               >
                 <FacebookIcon className="mx-3" size={36} />
               </FacebookShareButton>
               <TwitterShareButton
-                url={"https://emastojanovska.github.io/my-portfolio"}
+                url={"https://emastojanovska.github.io/my-portfolio-main"}
                 quote={"FullStack Developer"}
                 hashtag="#javascript"
               >
                 <TwitterIcon className="mx-3" size={36} />
               </TwitterShareButton>
               <RedditShareButton
-                url={"https://emastojanovska.github.io/my-portfolio"}
+                url={"https://emastojanovska.github.io/my-portfolio-main"}
                 quote={"FullStack Developer"}
                 hashtag="#javascript"
               >
                 <RedditIcon className="mx-3" size={36} />
               </RedditShareButton>
               <LinkedinShareButton
-                url={"https://emastojanovska.github.io/my-portfolio"}
+                url={"https://emastojanovska.github.io/my-portfolio-main"}
                 quote={"FullStack Developer"}
                 hashtag="#javascript"
               >

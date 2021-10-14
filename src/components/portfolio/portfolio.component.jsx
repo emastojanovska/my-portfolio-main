@@ -112,7 +112,7 @@ const Pofrfolio = () => {
       <>
         <img className="portfolio-image-popupbox" src={portfolio} alt="..." />
         <p></p>
-        <b>Demo:</b> <a className="hyper-link" onClick={() => window.open("https://emastojanovska.github.io/my-portfolio", "_blank")}>"https://emastojanovska.github.io/my-portfolio</a>
+        <b>Demo:</b> <a className="hyper-link" onClick={() => window.open("https://emastojanovska.github.io/my-portfolio-main", "_blank")}>"https://emastojanovska.github.io/my-portfolio-main</a>
         <br />
         <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/emastojanovska/my-portfolio", "_blank")}>https://github.com/emastojanovska/my-portfolio</a>
       </>
