@@ -1,7 +1,7 @@
 /************************ SERVICES *********************************/
 .services {
     text-align: center;
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
     background: var(--primary-black);
     height: 100vh;
   }
@@ -51,7 +51,7 @@
     }
 
     .services{
-      height: 200vh;
+      padding-bottom: 80rem;
     }
     
   }
