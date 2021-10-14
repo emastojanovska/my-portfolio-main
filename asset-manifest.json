@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-main/static/css/main.40089cb7.chunk.css",
+    "main.js": "/my-portfolio-main/static/js/main.77bf38ec.chunk.js",
+    "main.js.map": "/my-portfolio-main/static/js/main.77bf38ec.chunk.js.map",
+    "runtime-main.js": "/my-portfolio-main/static/js/runtime-main.cafe9b64.js",
+    "runtime-main.js.map": "/my-portfolio-main/static/js/runtime-main.cafe9b64.js.map",
+    "static/css/2.ae136596.chunk.css": "/my-portfolio-main/static/css/2.ae136596.chunk.css",
+    "static/js/2.85001516.chunk.js": "/my-portfolio-main/static/js/2.85001516.chunk.js",
+    "static/js/2.85001516.chunk.js.map": "/my-portfolio-main/static/js/2.85001516.chunk.js.map",
+    "static/js/3.667cca02.chunk.js": "/my-portfolio-main/static/js/3.667cca02.chunk.js",
+    "static/js/3.667cca02.chunk.js.map": "/my-portfolio-main/static/js/3.667cca02.chunk.js.map",
+    "index.html": "/my-portfolio-main/index.html",
+    "static/css/2.ae136596.chunk.css.map": "/my-portfolio-main/static/css/2.ae136596.chunk.css.map",
+    "static/css/main.40089cb7.chunk.css.map": "/my-portfolio-main/static/css/main.40089cb7.chunk.css.map",
+    "static/js/2.85001516.chunk.js.LICENSE.txt": "/my-portfolio-main/static/js/2.85001516.chunk.js.LICENSE.txt",
+    "static/media/header.styles.css": "/my-portfolio-main/static/media/9.c816d0a8.jpg",
+    "static/media/cinema_tickets_IS.75f10228.jpg": "/my-portfolio-main/static/media/cinema_tickets_IS.75f10228.jpg",
+    "static/media/crwn-eshop.275fbbb2.jpg": "/my-portfolio-main/static/media/crwn-eshop.275fbbb2.jpg",
+    "static/media/me.c8bc112f.jpg": "/my-portfolio-main/static/media/me.c8bc112f.jpg",
+    "static/media/movies-DDD.5e6aaabf.jpg": "/my-portfolio-main/static/media/movies-DDD.5e6aaabf.jpg",
+    "static/media/portfolio.bad6e71d.jpg": "/my-portfolio-main/static/media/portfolio.bad6e71d.jpg",
+    "static/media/shopify.bf8a2ba9.jpg": "/my-portfolio-main/static/media/shopify.bf8a2ba9.jpg",
+    "static/media/trip.913d8834.jpg": "/my-portfolio-main/static/media/trip.913d8834.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cafe9b64.js",
+    "static/css/2.ae136596.chunk.css",
+    "static/js/2.85001516.chunk.js",
+    "static/css/main.40089cb7.chunk.css",
+    "static/js/main.77bf38ec.chunk.js"
+  ]
+}
